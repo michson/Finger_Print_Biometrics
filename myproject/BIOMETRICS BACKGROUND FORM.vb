@@ -67,5 +67,6 @@ Public Class BIOMETRICS_BACKGROUND_FORM
         Timer3.Enabled = True
         Me.BackgroundImage = My.Resources.Rhododendron
         Me.PictureBox1.Image = My.Resources.fingerprintreader2
+        
     End Sub
 End Class
