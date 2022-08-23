@@ -1,0 +1,40 @@
+C:\Users\ABIKOYEM\Desktop\myproject2\myproject\bin\Debug\myproject.exe.config
+C:\Users\ABIKOYEM\Desktop\myproject2\myproject\obj\Debug\myproject.exe
+C:\Users\ABIKOYEM\Desktop\myproject2\myproject\obj\Debug\myproject.xml
+C:\Users\ABIKOYEM\Desktop\myproject2\myproject\obj\Debug\myproject.pdb
+C:\Users\ABIKOYEM\Desktop\myproject2\myproject\bin\Debug\GrFingerSample.mdb
+C:\Users\ABIKOYEM\Desktop\myproject2\myproject\bin\Debug\myproject.exe
+C:\Users\ABIKOYEM\Desktop\myproject2\myproject\bin\Debug\myproject.pdb
+C:\Users\ABIKOYEM\Desktop\myproject2\myproject\bin\Debug\myproject.xml
+C:\Users\ABIKOYEM\Desktop\myproject2\myproject\bin\Debug\Interop.GrFingerXLib.dll
+C:\Users\ABIKOYEM\Desktop\myproject2\myproject\bin\Debug\AxInterop.GrFingerXLib.dll
+C:\Users\ABIKOYEM\Desktop\myproject2\myproject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ABIKOYEM\Desktop\myproject2\myproject\obj\Debug\Interop.GrFingerXLib.dll
+C:\Users\ABIKOYEM\Desktop\myproject2\myproject\obj\Debug\AxInterop.GrFingerXLib.dll
+C:\Users\ABIKOYEM\Desktop\myproject2\myproject\obj\Debug\myproject.vbproj.ResolveComReference.cache
+C:\Users\ABIKOYEM\Desktop\myproject2\myproject\obj\Debug\myproject.BIOMETRICS_BACKGROUND_FORM.resources
+C:\Users\ABIKOYEM\Desktop\myproject2\myproject\obj\Debug\myproject.ENTRYFORM.resources
+C:\Users\ABIKOYEM\Desktop\myproject2\myproject\obj\Debug\myproject.Form1.resources
+C:\Users\ABIKOYEM\Desktop\myproject2\myproject\obj\Debug\myproject.Resources.resources
+C:\Users\ABIKOYEM\Desktop\myproject2\myproject\obj\Debug\myproject.vbproj.GenerateResource.Cache
+D:\Mik New\FINGERPRINTS\myproject\bin\Debug\myproject.exe.config
+D:\Mik New\FINGERPRINTS\myproject\obj\Debug\myproject.exe
+D:\Mik New\FINGERPRINTS\myproject\obj\Debug\myproject.xml
+D:\Mik New\FINGERPRINTS\myproject\obj\Debug\myproject.pdb
+D:\Mik New\FINGERPRINTS\myproject\bin\Debug\GrFingerSample.mdb
+D:\Mik New\FINGERPRINTS\myproject\bin\Debug\myproject.exe
+D:\Mik New\FINGERPRINTS\myproject\bin\Debug\myproject.pdb
+D:\Mik New\FINGERPRINTS\myproject\bin\Debug\myproject.xml
+D:\Mik New\FINGERPRINTS\myproject\bin\Debug\Interop.GrFingerXLib.dll
+D:\Mik New\FINGERPRINTS\myproject\bin\Debug\AxInterop.GrFingerXLib.dll
+D:\Mik New\FINGERPRINTS\myproject\obj\Debug\ResolveAssemblyReference.cache
+D:\Mik New\FINGERPRINTS\myproject\obj\Debug\Interop.GrFingerXLib.dll
+D:\Mik New\FINGERPRINTS\myproject\obj\Debug\AxInterop.GrFingerXLib.dll
+D:\Mik New\FINGERPRINTS\myproject\obj\Debug\myproject.vbproj.ResolveComReference.cache
+D:\Mik New\FINGERPRINTS\myproject\obj\Debug\myproject.BIOMETRICS_BACKGROUND_FORM.resources
+D:\Mik New\FINGERPRINTS\myproject\obj\Debug\myproject.ENTRYFORM.resources
+D:\Mik New\FINGERPRINTS\myproject\obj\Debug\myproject.Form1.resources
+D:\Mik New\FINGERPRINTS\myproject\obj\Debug\myproject.Resources.resources
+D:\Mik New\FINGERPRINTS\myproject\obj\Debug\myproject.vbproj.GenerateResource.Cache
+D:\Mik New\FINGERPRINTS\myproject\obj\Debug\myproject.Registration.resources
+D:\Mik New\FINGERPRINTS\myproject\obj\Debug\myproject.Main_Menu.resources
