@@ -7,6 +7,5 @@ Public Class ENTRYFORM
         Me.Hide()
         BIOMETRICS_BACKGROUND_FORM.Show()
 
-
     End Sub
 End Class
