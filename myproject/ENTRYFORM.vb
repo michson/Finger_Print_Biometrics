@@ -8,4 +8,3 @@ Public Class ENTRYFORM
         BIOMETRICS_BACKGROUND_FORM.Show()
     End Sub
 End Class
-
