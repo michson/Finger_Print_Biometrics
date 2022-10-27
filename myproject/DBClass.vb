@@ -12,7 +12,6 @@ Public Class TTemplate
     ' Template itself
     Public tpt As System.Array = Array.CreateInstance(GetType(Byte), GrFingerXLib.GRConstants.GR_MAX_SIZE_TEMPLATE)
 
-
     ' Template size
     Public Size As Long
 End Class
