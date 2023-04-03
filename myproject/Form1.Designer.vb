@@ -10,7 +10,6 @@ Partial Class Form1
         End If
         MyBase.Dispose(disposing)
     End Sub
-
     'Required by the Windows Form Designer
     Private components As System.ComponentModel.IContainer
 
